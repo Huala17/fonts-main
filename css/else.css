@@ -267,9 +267,9 @@ nav{
     align-items: center;
 }
 .textImg{
-    background-image: url(../image/其他/其他，這邊@3x.png);
+    background-image: url(../image/黑體/黑體方正.png);
     width: 516px;
-    height: 120px;
+    height: 149px;
 }
 
 /*shelf*/
@@ -294,7 +294,7 @@ nav{
 }
 .img_shelf_2{
     background-image: url(../image/其他/無心@3x.png);
-    height: 2.86vw;
+    height: 2.9vw;
     min-height: 27.5px;
 }
 .img_shelf_3{
@@ -304,7 +304,7 @@ nav{
 }
 .img_shelf_4{
     background-image: url(../image/其他/青柳隸書@3x.png);
-    height: 2.86vw;
+    height: 2.9vw;
     min-height: 27.5px;
 }
 .img_shelf_5{
@@ -314,29 +314,29 @@ nav{
 }
 .img_shelf_6{
     background-image: url(../image/其他/チェックアンドU-Foフォント@3x.png);
-    height: 2.86vw;
+    height: 2.9vw;
     min-height: 27.5px;
 }
 .img_shelf_7{
     background-image: url(../image/其他/Dela\ Gothic\ One@3x.png);
-    height: 4.16vw;
+    height: 4.2vw;
     min-height: 40px;
     width: 29.4vw;
 }
 .img_shelf_8{
     background-image: url(../image/其他/Potta\ One@3x.png);
-    height: 4.16vw;
+    height: 4.2vw;
     min-height: 40px;
 }
 .img_shelf_9{
     background-image: url(../image/其他/怨靈體@3x.png);
-    height: 2.97vw;
+    height: 3vw;
     min-height: 28.5px;
     width: 29.5vw;
 }
 .img_shelf_10{
     background-image: url(../image/其他/RocknRoll\ One@3x.png);
-    height: 4.16vw;
+    height: 4.2vw;
     min-height: 40px;
 }
 .img_shelf_11{
@@ -440,6 +440,6 @@ footer{
     background-image: url(../image/logo_gif\(集\).gif);
 }
 .text_footer{
-    font-size: 20px;
+    font-size: 25px;
     margin-bottom: 20px;
 }
